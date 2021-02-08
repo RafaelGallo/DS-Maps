@@ -13,4 +13,4 @@ Mapa vendas de aparatamentos do AirBnb = SP
 
 
 
-![M.L MD](https://github.com/RafaelGallo/DS-mapas-no-plotly/blob/main/P/closeup-de-pinos-no-mapa-planejando-viagem-viagem_53876-14827.jpg)
+![M.L MD](https://github.com/RafaelGallo/DS-Maps/blob/main/src/closeup-de-pinos-no-mapa-planejando-viagem-viagem_53876-14827.jpg)
